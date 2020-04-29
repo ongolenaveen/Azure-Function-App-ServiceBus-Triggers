@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KF6DkUTP/Wshj9ITBQgZGbsh3oVh6t+GJ6wyIj5G97iFvn2w+X5HF11Nb8ybtY01XcSqhGEb9/YP+rsDuYWYdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\navee\\source\\repos\\ServiceBus.Function.App\\ServiceBus.Function.App.Utilities\\ServiceBus.Function.App.Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\navee\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

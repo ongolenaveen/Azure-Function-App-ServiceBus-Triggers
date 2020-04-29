@@ -1,0 +1,9 @@
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Utilities\bin\Debug\netstandard2.0\ServiceBus.Function.App.Utilities.deps.json
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Utilities\bin\Debug\netstandard2.0\ServiceBus.Function.App.Utilities.dll
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Utilities\bin\Debug\netstandard2.0\ServiceBus.Function.App.Utilities.pdb
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Utilities\obj\Debug\netstandard2.0\ServiceBus.Function.App.Utilities.csprojAssemblyReference.cache
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Utilities\obj\Debug\netstandard2.0\ServiceBus.Function.App.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Utilities\obj\Debug\netstandard2.0\ServiceBus.Function.App.Utilities.AssemblyInfoInputs.cache
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Utilities\obj\Debug\netstandard2.0\ServiceBus.Function.App.Utilities.AssemblyInfo.cs
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Utilities\obj\Debug\netstandard2.0\ServiceBus.Function.App.Utilities.dll
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Utilities\obj\Debug\netstandard2.0\ServiceBus.Function.App.Utilities.pdb

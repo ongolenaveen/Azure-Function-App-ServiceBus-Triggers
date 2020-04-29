@@ -1,0 +1,8 @@
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Contracts\bin\Debug\netstandard2.0\ServiceBus.Function.App.Contracts.deps.json
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Contracts\bin\Debug\netstandard2.0\ServiceBus.Function.App.Contracts.dll
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Contracts\bin\Debug\netstandard2.0\ServiceBus.Function.App.Contracts.pdb
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Contracts\obj\Debug\netstandard2.0\ServiceBus.Function.App.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Contracts\obj\Debug\netstandard2.0\ServiceBus.Function.App.Contracts.AssemblyInfoInputs.cache
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Contracts\obj\Debug\netstandard2.0\ServiceBus.Function.App.Contracts.AssemblyInfo.cs
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Contracts\obj\Debug\netstandard2.0\ServiceBus.Function.App.Contracts.dll
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Contracts\obj\Debug\netstandard2.0\ServiceBus.Function.App.Contracts.pdb

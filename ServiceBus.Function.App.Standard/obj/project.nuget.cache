@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1NyBv52zJ0LRRgynZPdvahKPNh1QOlb/ReQteLImS2R4lt8GUiWSQp6grGP1ECM53I/vMUp9RP43HQeZe5F7+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\navee\\source\\repos\\ServiceBus.Function.App\\ServiceBus.Function.App.Standard\\ServiceBus.Function.App.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\navee\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.3\\microsoft.extensions.logging.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

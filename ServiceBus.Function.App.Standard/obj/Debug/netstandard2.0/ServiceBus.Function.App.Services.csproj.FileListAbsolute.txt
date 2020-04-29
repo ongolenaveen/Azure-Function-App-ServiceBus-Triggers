@@ -1,0 +1,14 @@
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Standard\bin\Debug\netstandard2.0\ServiceBus.Function.App.Services.deps.json
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Standard\bin\Debug\netstandard2.0\ServiceBus.Function.App.Services.dll
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Standard\bin\Debug\netstandard2.0\ServiceBus.Function.App.Services.pdb
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Standard\bin\Debug\netstandard2.0\ServiceBus.Function.App.Contracts.dll
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Standard\bin\Debug\netstandard2.0\ServiceBus.Function.App.Utilities.dll
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Standard\bin\Debug\netstandard2.0\ServiceBus.Function.App.Contracts.pdb
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Standard\bin\Debug\netstandard2.0\ServiceBus.Function.App.Utilities.pdb
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Standard\obj\Debug\netstandard2.0\ServiceBus.Function.App.Services.csprojAssemblyReference.cache
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Standard\obj\Debug\netstandard2.0\ServiceBus.Function.App.Services.csproj.CoreCompileInputs.cache
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Standard\obj\Debug\netstandard2.0\ServiceBus.Function.App.Services.AssemblyInfoInputs.cache
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Standard\obj\Debug\netstandard2.0\ServiceBus.Function.App.Services.AssemblyInfo.cs
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Standard\obj\Debug\netstandard2.0\ServiceBus.Function.App.Services.csproj.CopyComplete
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Standard\obj\Debug\netstandard2.0\ServiceBus.Function.App.Services.dll
+C:\Users\navee\source\repos\ServiceBus.Function.App\ServiceBus.Function.App.Standard\obj\Debug\netstandard2.0\ServiceBus.Function.App.Services.pdb
